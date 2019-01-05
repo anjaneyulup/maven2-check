@@ -4,9 +4,9 @@
 
   <groupId>aa.ll</groupId>
   <artifactId>maven2</artifactId>
-  <packaging>war</packaging>
-  <version>0.0.1</version>
-
+  <packaging>jar</packaging>
+  <version>1.${build_number}</version>
+  
   <name>maven2</name>
   <url>http://maven.apache.org</url>
 
