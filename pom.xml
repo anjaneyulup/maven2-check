@@ -5,7 +5,8 @@
   <groupId>aa.ll</groupId>
   <artifactId>maven2</artifactId>
   <packaging>jar</packaging>
-  <version>1.${build_number}</version>
+  <version>1.0</version>
+  <classifier>${BUILD_NUMBER}</classifier>
   
   <name>maven2</name>
   <url>http://maven.apache.org</url>
